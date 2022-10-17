@@ -6,10 +6,12 @@
     <title>Salvar e Recuperar Do LocalStorage</title>
 </head>
 <body>
+
+    <button type="button" onclick="sendServer()">Sincroniza</button>
    
     
-    <p><a href="./index.php">Salve String </a></p>
-    <p><a href="./exemplo3.php">Salve Objeto </a></p>
+    <p><a href="./SaveRemove/index.php">Salve String </a></p>
+    <p><a href="./SaveRemove/exemplo3.php">Salve Objeto </a></p>
     
      <h1>Salvar do Form No LocalStorage</h1>
     <h2>Dados do Local Storage</h2>
@@ -22,11 +24,15 @@
         <label for="">Email: </label>
         <input type="text" name="email" id="email" /> <br><br>
        
-        <input type="submit" value="Envair" /> <br><br>
+        <input type="submit" value="Enviar" /> <br><br>
     
     </form>
 
-    <script src="./js/exemplo4.js"></script>
+    <div>
+        <span id="response"></span>
+    </div>
+
+    <script src="./js/main.js"></script>
     
 </body>
 </html>
