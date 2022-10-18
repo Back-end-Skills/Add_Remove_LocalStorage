@@ -7,19 +7,20 @@
 </head>
 <body>
 
-    <button type="button" onclick="sendServer()">Sincroniza</button>
+    <button type="button" onclick="sendServer()">Sincronizar</button>
    
     
     <p><a href="./SaveRemove/index.php">Salve String </a></p>
     <p><a href="./SaveRemove/exemplo3.php">Salve Objeto </a></p>
     
      <h1>Salvar do Form No LocalStorage</h1>
-    <h2>Dados do Local Storage</h2>
+    <h2>E Depois no DB</h2>
    
+    <span id="message"></span>
 
     <form action="" id="form">
         <label for="">Nome: </label>
-        <input type="text" name="name" id="name" /> <br><br>
+        <input type="text" name="name" id="username" /> <br><br>
 
         <label for="">Email: </label>
         <input type="text" name="email" id="email" /> <br><br>
