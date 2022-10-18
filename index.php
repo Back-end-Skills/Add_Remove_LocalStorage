@@ -6,18 +6,17 @@
     <title>Salvar e Recuperar Do LocalStorage</title>
 </head>
 <body>
+    <h1>Salvar LocalStorage</h1>
     
     <p><a href="./SaveRemove/index.php">Salve String </a></p>
     <p><a href="./SaveRemove/exemplo3.php">Salve Objeto </a></p>
 
     <p><a href="./RecuperarSalvaDB/index.php">Recuperar e salvar no db</a></p>
+    <p><a href="./SalvaArrayObject/index.php">Salvar Array de Object </a></p>
 
 
-    <h1>Salvar LocalStorage</h1>
     
-    <h2>Dados do Local Storage</h2>
-    <span id="res"></span>
-
+    
 
     
 </body>

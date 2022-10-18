@@ -15,3 +15,22 @@ Se você quiser manipular o armazenamento de sessão para um domínio, você cha
 <p>Debug</p>
 <img src="debung.png">
 
+### List Atalhos VsCode
+UNIR LINHAS 
+<p>No Ubuntu, Windows: Abra os atalhos de teclado em Arquivo> Preferências > Atalhos do teclado, e vincule action.joinLines para um atalho de sua escolha. <br>
+
+`Ctrl+J`
+</p>
+
+<p>FORMATAR CÓDIGO `Shift + Alt + F` </p>
+
+
+<p>ENCONTRAR E ELIMINAR ESPAÇO EM BRANCO</p>
+<p>COPIAR LINHA PARA CIMA/PARA BAIXO `Shift + Alt + Up/Down`  </p>
+<p>DUPLICAR LINHA `Ctrl + Shift + d`</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
