@@ -18,12 +18,12 @@
    
     <span id="message"></span>
 
-    <form action="" id="form">
+    <form id="form">
         <label for="">Nome: </label>
         <input type="text" name="name" id="username" /> <br><br>
 
         <label for="">Email: </label>
-        <input type="text" name="email" id="email" /> <br><br>
+        <input type="email" name="email" id="email" /> <br><br>
        
         <input type="submit" value="Enviar" /> <br><br>
     
